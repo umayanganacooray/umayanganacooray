@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/umayanganacooray](github.com/umayanganacooray)
 
-- 📝 I regularly write articles on [https://medium.com/@ume.cooray](https://medium.com/@ume.cooray)
+- 📝 I regularly write articles on [https://medium.com/@ume.cooray](medium.com/@ume.cooray)
 
 - 📫 How to reach me **ume.cooray@gmail.com**
 
