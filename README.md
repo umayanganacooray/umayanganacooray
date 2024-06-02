@@ -2,6 +2,7 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=umayanganacooray&label=Profile%20views&color=0e75b6&style=flat" alt="umayanganacooray" /> </p> -->
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - 🔭 I’m currently working on **Quiz App**
 
 - 🌱 I’m currently learning **Node.js | AWS Educate**
