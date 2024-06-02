@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Node.js | AWS Educate**
 
+- 💬 Ask me about **Java**
+
 - 👨‍💻 All of my projects are available at [github.com/umayanganacooray](github.com/umayanganacooray)
 
 - 📝 I regularly write articles on [https://medium.com/@ume.cooray](https://medium.com/@ume.cooray)
-
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me **ume.cooray@gmail.com**
 
