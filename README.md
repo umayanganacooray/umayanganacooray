@@ -21,7 +21,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=umayanganacooray&title_color=4d94ff&show_icons=true&icon_color=0066ff&include_all_commits=true&count_private=true&theme=dark"  />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=umayanganacooray&title_color=4d94ff&show_icons=true&icon_color=3385ff&include_all_commits=true&count_private=true&theme=dark"  />
   <br></br>
 
 <!--
