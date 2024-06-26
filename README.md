@@ -21,14 +21,17 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=umayanganacooray&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"  />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=umayanganacooray&title_color=4d94ff&show_icons=true&icon_color=0066ff&include_all_commits=true&count_private=true&theme=dark"  />
   <br></br>
 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=umayanganacooray&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" /> 
+<!--
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umayanganacooray&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/></p>   green = 6FDA44 -->
+  
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=umayanganacooray&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=4d94ff&fire=4d94ff&ring=4d94ff" />
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=umayanganacooray&title_color=6FDA44&text_color=FFFFFF&show_icons=true&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=umayanganacooray&title_color=4d94ff&text_color=FFFFFF&show_icons=true&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 
 </tr>
