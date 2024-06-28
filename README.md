@@ -21,11 +21,15 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=umayanganacooray&title_color=4d94ff&show_icons=true&icon_color=3385ff&include_all_commits=true&count_private=true&theme=dark"  />
+<br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umayanganacooray&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=3385ff&repo=convoychat"/>
   <br></br>
 
-<!--3385ff
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umayanganacooray&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/></p>   green = 6FDA44 -->
+<!--
+
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=umayanganacooray&title_color=4d94ff&show_icons=true&icon_color=005ce6&include_all_commits=true&count_private=true&theme=dark" />
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umayanganacooray&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/></p>   green = 6FDA44, commit icon color = 3385ff-->
   
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=umayanganacooray&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=4d94ff&fire=4d94ff&ring=4d94ff" />
 </td>
