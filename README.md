@@ -3,13 +3,13 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I’m currently working on **Quiz App**
+- 👨‍💻 I’m currently working at **WSO2**
 
-- 🌱 I’m currently learning **Node.js | AWS Educate**
+- 🌱 I’m currently learning **Machine Learning | AI**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Python**
 
-- 👨‍💻 All of my projects are available at [github.com/umayanganacooray](github.com/umayanganacooray)
+- 🔭 All of my projects are available at [github.com/umayanganacooray](github.com/umayanganacooray)
 
 - 📝 I regularly write articles on [https://medium.com/@ume.cooray](medium.com/@ume.cooray)
 
